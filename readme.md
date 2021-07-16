@@ -20,3 +20,4 @@ This is an alternative to the existing [GitZip](https://kinolien.github.io/gitzi
 ## License
 
 MIT © [Federico Brigante](http://twitter.com/bfred_it)
+https://github.com/betaflight/betaflight
